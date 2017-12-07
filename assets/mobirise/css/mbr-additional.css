@@ -2138,6 +2138,40 @@ body {
   color: #767676;
   text-align: center;
 }
+.cid-qD7wGZSuV6 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qD7wGZSuV6 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qD7wGZSuV6 .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-qD7wGZSuV6 .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-qD7wGZSuV6 .team-item .item-image img {
+  width: 100%;
+}
+.cid-qD7wGZSuV6 .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-qD7wGZSuV6 .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-qD7wGZSuV6 .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qD7wGZSuV6 .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
 .cid-qCVUtIrdpn {
   padding-top: 30px;
   padding-bottom: 30px;
