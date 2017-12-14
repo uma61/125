@@ -2119,24 +2119,40 @@ body {
 .cid-qCVTURtw7Q P {
   text-align: center;
 }
-.cid-qCVY6x3XWk {
-  padding-top: 15px;
+.cid-qDMbCVNyJF {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-qCVY6x3XWk .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-qDMbCVNyJF h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
 }
-@media (max-width: 992px) {
-  .cid-qCVY6x3XWk .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-qCVY6x3XWk .mbr-text {
+.cid-qDMbCVNyJF p {
   color: #767676;
+  text-align: left;
+}
+.cid-qDMbCVNyJF .card-box {
+  padding-top: 2rem;
+}
+.cid-qDMbCVNyJF .card-wrapper {
+  height: 100%;
+}
+.cid-qDMbCVNyJF P {
   text-align: center;
+}
+.cid-qDMc6yoBeT {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qDMc6yoBeT .mbr-text,
+.cid-qDMc6yoBeT blockquote {
+  color: #767676;
+}
+.cid-qDMc6yoBeT .mbr-text {
+  text-align: left;
 }
 .cid-qD7wGZSuV6 {
   padding-top: 15px;
