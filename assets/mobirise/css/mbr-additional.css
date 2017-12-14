@@ -129,7 +129,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #3bc489 !important;
+  background-color: #b0540b !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -145,8 +145,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #3bc489;
-  border-color: #3bc489;
+  background-color: #b0540b;
+  border-color: #b0540b;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -154,14 +154,14 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #298960;
-  border-color: #298960;
+  background-color: #683207;
+  border-color: #683207;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #298960 !important;
-  border-color: #298960 !important;
+  background-color: #683207 !important;
+  border-color: #683207 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -309,22 +309,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #237652;
-  color: #237652;
+  border-color: #502605;
+  color: #502605;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #3bc489;
-  border-color: #3bc489;
+  background-color: #b0540b;
+  border-color: #b0540b;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #3bc489 !important;
-  border-color: #3bc489 !important;
+  background-color: #b0540b !important;
+  border-color: #b0540b !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -461,7 +461,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #3bc489 !important;
+  color: #b0540b !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -486,7 +486,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #237652 !important;
+  color: #502605 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -538,8 +538,8 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #3bc489;
-  border-color: #3bc489;
+  background-color: #b0540b;
+  border-color: #b0540b;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -556,11 +556,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #3bc489;
+  color: #b0540b;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #9de2c4;
+  color: #f39347;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -678,7 +678,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #3bc489;
+  border-color: #b0540b;
   border-width: 3px;
 }
 ul,
@@ -766,7 +766,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #3bc489;
+  border-color: #b0540b;
   color: #232323;
   cursor: pointer;
 }
@@ -777,7 +777,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #3bc489;
+  background: #b0540b;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -785,11 +785,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #3bc489;
+  background: #b0540b;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #3bc489;
+  color: #b0540b;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -2221,6 +2221,33 @@ body {
 .cid-qDccyEy77l .team-item .item-social .socicon {
   color: #232323;
   font-size: 17px;
+}
+.cid-qDMltm3LtJ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qDMltm3LtJ .title {
+  margin-bottom: 2rem;
+}
+.cid-qDMltm3LtJ .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-qDMltm3LtJ a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qDMltm3LtJ a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qDMltm3LtJ .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qDMltm3LtJ .input-group-btn {
+  display: block;
+  text-align: center;
 }
 .cid-qCVUtIrdpn {
   padding-top: 30px;
